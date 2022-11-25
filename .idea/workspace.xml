@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="418cb9f0-a97c-4147-930b-9c323199f00f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CrazyTanks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blocks/Air.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blocks/Barrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blocks/Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blocks/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blocks/WinCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game/GameField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/BlockRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/Panels/AirPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/Panels/BarrierPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/Panels/TankPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/Panels/WinBlockPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/TableRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/TanksTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Printers/GraphicPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Printers/Printer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I2pQ8WuWf6krn023iXd5SNw5Wn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CrazyTanks" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CrazyTanks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="418cb9f0-a97c-4147-930b-9c323199f00f" name="Changes" comment="" />
+      <created>1669389514289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669389514289</updated>
+      <workItem from="1669389516117" duration="417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
